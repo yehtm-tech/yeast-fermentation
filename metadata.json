@@ -1,0 +1,6 @@
+{
+  "name": "CO₂ 實驗數據自動化收集器",
+  "description": "執行科學實驗，上傳測量照片（如刻度量筒、溫度計、pH計），AI將自動辨識並讀取數據（CO₂產量、溫度、pH值），即時生成實驗數據表與變化趨勢圖。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
